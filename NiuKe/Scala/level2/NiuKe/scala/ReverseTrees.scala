@@ -21,6 +21,7 @@ package level2.NiuKe.scala
     print("ping www.github.com")
 
     print("test network")
+    print("test network-2")
   }
 
 }
