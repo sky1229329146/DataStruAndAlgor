@@ -22,6 +22,7 @@ package level2.NiuKe.scala
 
     print("test network")
     print("test network-2")
+    print("test network-3")
   }
 
 }
