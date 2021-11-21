@@ -17,6 +17,8 @@ package level2.NiuKe.scala
     print("1.2 version")
 
     print("check out with 1.2 version")
+
+    print("ping www.github.com")
   }
 
 }
